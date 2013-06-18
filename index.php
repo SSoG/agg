@@ -3,7 +3,8 @@
 <html xmlns="
 <head>
     <title>SSoG News Aggregator</title>
-    <link rel="stylesheet" type="text/css" href="style/style.css">
+	<link rel="stylesheet" media="screen and (max-width: 1024px)" rel="stylesheet" href="style/mobile.css">
+    <link rel="stylesheet" media="Screen" href="style/style.css" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/cookies.js"></script>
     <script type="text/javascript" src="scripts/refresh.js"></script>
@@ -99,7 +100,7 @@ $feed->handle_content_type();
     <td style="vertical-align:middle"><img src="images/aggregator.png" width="75px"/></td>
     <td style="vertical-align:middle"><h1>SSoG News Aggregator</h1></td>
     </tr></table>
-    <table><tr>
+    <table class="checkboxes"><tr>
     <td style="vertical-align:middle">
     <input type="checkbox" label="Kotaku" id = "Kotaku" name = "Kotaku" <?php if($kotaku=="checked") echo (' checked = true'); ?><?php if($kotaku_enabled=="false") echo (' disabled = true'); ?>>Kotaku
     <input type="checkbox" label ="Polygon" id = "Polygon" name="Polygon" <?php if($polygon=="checked") echo (' checked = true'); ?><?php if($polygon_enabled=="false") echo (' disabled = true'); ?>>Polygon
@@ -132,7 +133,7 @@ $feed->handle_content_type();
         $color = "siliconera";
     
     ?>
-        <div 
+        <div id = "article"
         onmouseover="this.style.cursor='hand'; this.style.opacity=.6; this.filters.alpha.opacity=60" 
         onmouseout= "this.style.opacity=1; this.filters.alpha.opacity=100" 
         onclick= "window.location.href = '<?php echo $item->get_permalink(); ?>'"
