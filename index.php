@@ -95,10 +95,11 @@ $feed->init();
 $feed->handle_content_type();
 ?>
     <div class="container">
-    <table><tr height="25px">
-    <td style="vertical-align:middle"><img src="images/aggregator.png" width="50px"/></td>
-    <td style="vertical-align:middle">SSoG News Aggregator</td>
-    <td width=350px>&nbsp</td>
+    <table><tr>
+    <td style="vertical-align:middle"><img src="images/aggregator.png" width="75px"/></td>
+    <td style="vertical-align:middle"><h1>SSoG News Aggregator</h1></td>
+    </tr></table>
+    <table><tr>
     <td style="vertical-align:middle">
     <input type="checkbox" label="Kotaku" id = "Kotaku" name = "Kotaku" <?php if($kotaku=="checked") echo (' checked = true'); ?><?php if($kotaku_enabled=="false") echo (' disabled = true'); ?>>Kotaku
     <input type="checkbox" label ="Polygon" id = "Polygon" name="Polygon" <?php if($polygon=="checked") echo (' checked = true'); ?><?php if($polygon_enabled=="false") echo (' disabled = true'); ?>>Polygon

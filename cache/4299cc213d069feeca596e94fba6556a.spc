@@ -15,7 +15,187 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Polygon -  All";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:58:"http://cdn0.sbnation.com/community_logos/42931/favicon.ico";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T17:46:15Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:36:"http://www.polygon.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:23:"http://www.polygon.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Polygon -  All";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:58:"http://cdn0.sbnation.com/community_logos/42931/favicon.ico";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:36:"http://www.polygon.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:23:"http://www.polygon.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:93:"Lost Planet 3 multiplayer pits Pirates against Pioneers, features mechs and special abilities";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1083:"
+  
+
+
+
+
+  <img alt="Multiplayer" src="http://cdn3.sbnation.com/uploads/chorus_image/image/15000947/multiplayer.0_cinema_400.0.jpg" />
+
+
+
+
+
+  <p><i>Lost Planet 3</i>'s multiplayer allows players to customize their character's abilities through a progression sphere and play through multiple team scenarios.</p>
+<p>We spent some time with the game's multiplayer at E3. During our demo, we engaged in five-versus-five multiplayer as part of the NEVEC team. NEVEC's goal was to protect a series of points around the map, while the Pirates simply needed to stall and keep NEVEC from completing its objective. A menu at the top left of the game's screen informs players of their progress by displaying bars that brighten as different objectives are achieved, which made it easy for us to track our goals at a quick glance. </p>
+<p>The match we played was a standard 10 minutes, though a representative told us they...</p>
+  <p>
+    <a href="http://www.polygon.com/2013/6/18/4436194/lost-planet-3-multiplayer-combines-rpg-elements-with-shooter-based">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:107:"http://www.polygon.com/2013/6/18/4436194/lost-planet-3-multiplayer-combines-rpg-elements-with-shooter-based";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.polygon.com/2013/6/18/4436194/lost-planet-3-multiplayer-combines-rpg-elements-with-shooter-based";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"Megan Farokhmanesh";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:20:43Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:20:43Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Black Ops 2's third DLC pack, Vengeance, launching July 2 on Xbox 360";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1498:"
+  
+    <p>The third of four map packs for <i><a class="sbn-auto-link" href="/game/call-of-duty-black-ops-2/2217">Call of Duty: Black Ops 2</a></i> is called <i>Vengeance</i>, and it will be released July 2 on Xbox Live Marketplace, publisher Activision announced today.</p>
+<p>The downloadable content will feature three new maps &mdash; Cove, Detour (screenshot above) and Rush &mdash; and a fourth, Uplink, that is a remake of the Summit map from the original <em><a href="/game/call-of-duty-black-ops/2176%E2%80%8E" class="sbn-auto-link">Call of Duty: Black Ops</a></em>. It also includes a new Zombies game type, Buried, that comes with a new weapon for the Zombies mode, the Ray Gun Mark II.</p>
+<p>There's no word yet on the price, or on the release date for other platforms. The game's first two DLC packs, <i><a href="http://www.polygon.com/2013/1/8/3852022/black-ops-2-revolution-map-pack-announced-rollout-begins-jan-29" target="new">Revolution</a></i> and <i><a href="http://www.polygon.com/2013/4/4/4183506/black-ops-2-uprising-dlc-hits-xbox-360-on-april-16-adds-four-maps-and" target="new">Uprising</a></i>, each cost 1,200 Microsoft Points ($15) for players who don't own the <a href="http://www.polygon.com/2012/10/22/3538712/call-of-duty-elite-free-season-pass-map-packs" target="_blank">Season Pass</a>. All Call of Duty DLC packs are...</p>
+  
+  
+    <iframe width="853" height="480" src="http://www.youtube.com/embed/O-78MwnAAXI" frameborder="0" allowfullscreen></iframe>
+  
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:88:"http://www.polygon.com/2013/6/18/4442546/black-ops-2-dlc-vengeance-release-date-xbox-360";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.polygon.com/2013/6/18/4442546/black-ops-2-dlc-vengeance-release-date-xbox-360";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"Hands on with F.R.E.S.H., Squaresville and Parapluie, three new titles on Sifteo Cubes";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1252:"
+  
+
+
+
+
+  <img alt="Sifteo_cubes" src="http://cdn2.sbnation.com/uploads/chorus_image/image/14997539/sifteo_cubes.0_cinema_400.0.png" />
+
+
+
+
+
+  <p>During E3 2013, we had the chance to go hands with Sifteo Cubes titles <i>F.R.E.S.H., Squaresville </i>and <i>Parapluie, </i>three titles that offer arcade-style gaming.</p>
+<p>Sifteo Cubes are a<span style="line-height: 1.5;"> motion-aware gaming platform are a lot like a mix between a Wii, an iPhone and LEGO blocks, director of production Bernie Lin told us. Each tiny block has a touch-based screen that players can tap, touch, stack or line up to interact with. Formerly known as Siftables, Sifteo Cubes made their debut in 2011 and were followed by a second generation, which featured touch sensitivity and additional control support, in 2012. </span></p>
+<p>We first tested out <i style="line-height: 1.5;">F.R.E.S.H. </i><span style="line-height: 1.5;">is a </span><i style="line-height: 1.5;">WarioWare</i><span style="line-height: 1.5;">-style homage to '80s hip hop. The goal is to complete a series of mini games as fast as possible to...</span></p>
+  <p>
+    <a href="http://www.polygon.com/2013/6/18/4432058/sifteo-cubes-offer-diverse-portable-gaming">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:83:"http://www.polygon.com/2013/6/18/4432058/sifteo-cubes-offer-diverse-portable-gaming";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.polygon.com/2013/6/18/4432058/sifteo-cubes-offer-diverse-portable-gaming";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"Megan Farokhmanesh";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"Pikmin 3: Little plants in the shadows of giants";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1040:"
+  
+
+
+
+
+  <img alt="Cover" src="http://cdn0.sbnation.com/uploads/chorus_image/image/14995323/cover.0_cinema_400.0.jpg" />
+
+
+
+
+
+  <p>Pikmin has always been a strange series to pursue as a major tentpole franchise. It's a busy game, with lots of moving pieces &mdash; both on a mechanical and visual level. It's a deeply, surprisingly complex strategy game, a genre that Nintendo's not especially well-known for, and a genre that its casual-leaning audience doesn't have much crossover interest in. Despite those assumptions, Pikmin has a huge and devout fanship that's been waiting on its next installment since <em>Pikmin 2</em>, which was released nearly a decade ago.
+<br><br><q>Pikmin 3 was first announced in 2008</q>
+
+</p>
+<p>Shigeru Miyamoto is among that fanbase. In an interview with Polygon, Nintendo of America's Bill Trinen &mdash; who translated for Miyamoto &mdash; said <em>Pikmin 3</em> was one of Miyamoto's...</p>
+  <p>
+    <a href="http://www.polygon.com/2013/6/18/4439582/pikmin-3">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:49:"http://www.polygon.com/2013/6/18/4439582/pikmin-3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:49:"http://www.polygon.com/2013/6/18/4439582/pikmin-3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Griffin McElroy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:51:"Torchlight free on GOG, Alan Wake is 90 percent off";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1226:"
+  
+
+
+
+
+  <img alt="4968_111301057256_7215562_n" src="http://cdn1.sbnation.com/uploads/chorus_image/image/14994265/4968_111301057256_7215562_n.0_cinema_400.0.jpg" />
+
+
+
+
+
+  <p>GOG.com kicked off its summer sale today by discounting<i> <a class="sbn-auto-link" href="/game/alan-wake/2091">Alan Wake</a> </i>by 90 percent and offering<i> <a class="sbn-auto-link" href="/game/torchlight/8485">Torchlight</a></i> for <a href="http://www.gog.com/gamecard/torchlight">free </a>until June 20.</p>
+<p>The<a href="http://www.gog.com/news/2013_nodrm_summer_sale_begins_on_gogcom"> #NoDRM Summer Sale</a> will reduce more than 500 titles in GOG.com's catalog by half price between now and July 5. During this 17 day period, the store will also feature daily deals that include heavily discounted game bundles and individual titles by as much as 85 percent off.</p>
+<p>All games included in the sale are DRM-free.</p>
+<p>The sale ends July 5 and the <i><a class="sbn-auto-link" href="/franchise/torchlight/2818">Torchlight</a></i> giveaway ends on Thursday, June 20 at 8:59 a.m. ET.</p>
+  <p>
+    <a href="http://www.polygon.com/2013/6/18/4442246/torchlight-free-on-gog-alan-wake-is-90-percent-off">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.polygon.com/2013/6/18/4442246/torchlight-free-on-gog-alan-wake-is-90-percent-off";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.polygon.com/2013/6/18/4442246/torchlight-free-on-gog-alan-wake-is-90-percent-off";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Tracey Lien";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"PlayStation 4 auto-update won’t require PlayStation Plus membership ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1573:"
+  
+
+
+
+
+  <img alt="Ps4" src="http://cdn0.sbnation.com/uploads/chorus_image/image/14993211/ps4.0_cinema_400.0.jpg" />
+
+
+
+
+
+  <p>PlayStation 4's social features will not require a PlayStation Plus subscription and all PS4 users will now be able to use the auto-update functionality for free,<span style="line-height: 1.5;"> </span><a style="line-height: 1.5;" href="http://www.videogamer.com/news/sony_details_ps4_playstation_plus_changes.html">VideoGamer.com</a><span style="line-height: 1.5;"> reports.</span></p>
+<p>On the PlayStation 3, only Plus members had the ability to auto-update. <span style="line-height: 1.5;">Speaking with </span><span style="line-height: 1.5;">SCEE</span><span style="line-height: 1.5;"> UK and Ireland MD </span><span style="line-height: 1.5;">Fergal</span><span style="line-height: 1.5;"> </span><span style="line-height: 1.5;">Gara</span><span style="line-height: 1.5;">, the site reports </span><span style="line-height: 16px;">that television and movie streaming services will also still be free.</span></p>
+<p>"A PlayStation Plus subscriber for PlayStation 4 comes away with a hell of a lot," Gara said. "First of all, the subscription applies across all three platforms [PS4, PS3 &amp; PS Vita], so if you have the three platforms then you have an instant game collection on all three. So that's hugely powerful in its own right. But it is true to say that the...</p>
+  <p>
+    <a href="http://www.polygon.com/2013/6/18/4442196/playstation-4-auto-update-wont-require-playstation-plus-membership">Continue reading&hellip;</a>
+  </p>
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:107:"http://www.polygon.com/2013/6/18/4442196/playstation-4-auto-update-wont-require-playstation-plus-membership";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.polygon.com/2013/6/18/4442196/playstation-4-auto-update-wont-require-playstation-plus-membership";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"Megan Farokhmanesh";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
     
     
@@ -46,7 +226,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 ";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:87:"http://www.polygon.com/2013/6/18/4441970/ea-layoffs-continue-company-wide-restructuring";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:87:"http://www.polygon.com/2013/6/18/4441970/ea-layoffs-continue-company-wide-restructuring";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
     
     
     
@@ -77,7 +257,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 ";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:105:"http://www.polygon.com/2013/6/18/4442150/bioshock-creator-ken-levine-writing-logans-run-remake-screenplay";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:105:"http://www.polygon.com/2013/6/18/4442150/bioshock-creator-ken-levine-writing-logans-run-remake-screenplay";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Michael McWhertor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Michael McWhertor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
     
     
     
@@ -108,7 +288,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 ";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:78:"http://www.polygon.com/2013/6/18/4441592/official-modding-tools-saints-row-2-3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"http://www.polygon.com/2013/6/18/4441592/official-modding-tools-saints-row-2-3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Dave Tach";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Dave Tach";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -140,212 +320,4 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 ";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:106:"http://www.polygon.com/2013/6/18/4441652/opinion-five-things-next-gen-consoles-should-learn-from-pc-gaming";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:106:"http://www.polygon.com/2013/6/18/4441652/opinion-five-things-next-gen-consoles-should-learn-from-pc-gaming";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Fredrik Wester";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T16:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T16:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"European 3DS owners reporting StreetPass crashes after latest system update";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1258:"
-  
-
-
-
-
-  <img alt="3ds" src="http://cdn2.sbnation.com/uploads/chorus_image/image/14987031/3ds.0_cinema_400.0.jpg" />
-
-
-
-
-
-  <p>European Nintendo 3DS owners are reporting crash issues with the handheld's StreetPass features after the latest system update, reports CVG.</p>
-<p>System update 6.0.0-11U added four new games to the StreetPass Plaza, along with 99 new hats for Miis. Players who try to purchase these games, which are available individually for $6.50 (&pound;4.49, &euro;4.99) or in a four-pack for $19.50 (&pound;13.49, &euro;14.99), are encountering error messages and are unable to download them.</p>
-<p>CVG reports that two of its staff members have witnessed the problem first-hand this morning, and <a href="https://twitter.com/schillingc/status/346909804134035456" target="_blank">tweets </a>under the <a href="https://twitter.com/LiamJohn_WS/status/346995940835590144" target="_blank">Twitter hashtag #StreetPass</a> are reporting similar issues.</p>
-<p>"We are aware of some reports of technical difficulties which are occurring and are currently investigating...</p>
-  <p>
-    <a href="http://www.polygon.com/2013/6/18/4441470/european-3ds-owners-reporting-streetpass-crashes-after-latest-system">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:109:"http://www.polygon.com/2013/6/18/4441470/european-3ds-owners-reporting-streetpass-crashes-after-latest-system";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.polygon.com/2013/6/18/4441470/european-3ds-owners-reporting-streetpass-crashes-after-latest-system";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T16:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T16:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"MMO Anomaly: Behind the scenes with the world builders of Firefall";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1181:"
-  
-
-
-
-
-  <img alt="New_eden" src="http://cdn1.sbnation.com/uploads/chorus_image/image/14984563/new_eden.0_cinema_400.0.jpg" />
-
-
-
-
-
-  <p>Richard Pearsey hasn't seen his wife in weeks. If all goes well, he may not see her again for years.
-
-</p>
-<div class="content-wrap">
-
-<p>Pearsey is the writer of the critically acclaimed <em>Spec Ops: The Line</em>. For that job, he (<a href="http://www.polygon.com/2012/11/14/3590430/dont-be-a-hero-the-full-story-behind-spec-ops-the-line">along with Walt Williams and Cory Davis</a>) spent almost two years living in Germany working with developer Yager to create a story for its shooter action title from scratch. </p>
-
-<p>This time around, Pearsey is working on a much bigger game. Thankfully in the United States. Unfortunately on the wrong coast from his family.</p>
-
-<p>Originally from Texas, Pearsey now resides (on paper) in Missouri, where his wife is the attorney for Missouri City. Her job is decidedly not mobile, yet Pearsey's requires him to travel all over the world. Which right now means...</p>
-</div>
-  <p>
-    <a href="http://www.polygon.com/features/2013/6/18/4438746/mmo-firefall">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:62:"http://www.polygon.com/features/2013/6/18/4438746/mmo-firefall";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:62:"http://www.polygon.com/features/2013/6/18/4438746/mmo-firefall";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Russ Pitts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T15:30:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T15:30:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"Xbox Live Marketplace sale includes 50 percent off PopCap games this week ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1394:"
-  
-
-
-
-
-  <img alt="Bejeweled-3-ps3-butterflies-combo-screenshot-de" src="http://cdn3.sbnation.com/uploads/chorus_image/image/14982917/bejeweled-3-ps3-butterflies-combo-screenshot-de.0_cinema_400.0.jpg" />
-
-
-
-
-
-  <p>The Xbox Live Marketplace is offering 50 percent discounts on a handful of PopCap games this week, as well as special deals on select games and downloadable content, according to a post on the <a href="http://majornelson.com/2013/06/18/coming-soon-to-the-xbox-live-marketplace-25/" target="_blank">Major Nelson blog</a>.</p>
-<p>Beginning today and ending June 24, Xbox 360 gamers can snag the following games at half their original price:</p>
-<ul>
-<li>
-<i>AstroPop</i> for $5 (400 Microsoft Points)</li>
-<li>
-<i>Bejeweled 2</i> for $2.50 (200 Microsoft Points)</li>
-<li>
-<i>Bejeweled 3</i> for $7.50 (600 Microsoft Points)</li>
-<li>
-<i>Bejeweled Blitz Live </i>for $2.50 (200 Microsoft Points)</li>
-<li>
-<i>Feeding Frenzy</i> for $2.50 (200 Microsoft Points)</li>
-<li>
-<i>Feeding Frenzy 2 </i>for  $5 (400 Microsoft Points)</li>
-<li>
-<i>Heavy Weapon</i> for  $5 (400 Microsoft Points)</li>
-<li>
-<i>Zuma</i> for $2.50 (200 Microsoft Points)</li>
-<li>
-<i>Zuma's Revenge</i> for  $5 (400 Microsoft...</li>
-</ul>
-  <p>
-    <a href="http://www.polygon.com/2013/6/18/4441694/xbox-live-marketplace-sale-includes-50-percent-off-popcap-games-this">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:109:"http://www.polygon.com/2013/6/18/4441694/xbox-live-marketplace-sale-includes-50-percent-off-popcap-games-this";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.polygon.com/2013/6/18/4441694/xbox-live-marketplace-sale-includes-50-percent-off-popcap-games-this";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T15:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T15:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"Shadowrun Returns delayed, now launching July 25 with full editing tools";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1332:"
-  
-
-
-
-
-  <img alt="Shadowrun-returns-stuffer-shack-art_1280" src="http://cdn3.sbnation.com/uploads/chorus_image/image/14979701/shadowrun-returns-stuffer-shack-art_1280.0_cinema_400.0.jpg" />
-
-
-
-
-
-  <p><i><a href="/game/shadowrun-returns/8036" class="sbn-auto-link">Shadowrun Returns</a></i>, the Kickstarted revival of the role-playing series, will be released on Windows PC, Mac, iOS and Android July 25, developer Harebrained Schemes announced today.</p>
-<p>The studio said in April that it <a href="http://www.polygon.com/2013/4/9/4206624/shadowrun-returns-launching-in-june-physical-backer-rewards-coming-3" target="new">planned to launch the game in June</a>. It will ship a Linux version at some point after the aforementioned date.</p>
-<p>Harebrained will release a full suite of level editing tools along with the game, allowing players to completely remake the existing game or use it as a jumping-off point for their own creations.</p>
-<p>"Players can start from what we have created and build on it, revise it or use it as a starting point for completely new stories," said Jordan Weisman, creator of Shadowrun and the founder of Harebrained Schemes, in a press...</p>
-  <p>
-    <a href="http://www.polygon.com/2013/6/18/4441602/shadowrun-returns-delay-release-date-editing-tools">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:91:"http://www.polygon.com/2013/6/18/4441602/shadowrun-returns-delay-release-date-editing-tools";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.polygon.com/2013/6/18/4441602/shadowrun-returns-delay-release-date-editing-tools";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T14:38:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T14:38:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Ninja Theory's new mobile game Fightback gets a machismo-laden trailer";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:761:"
-  
-    <p>A new trailer for <i>Fightback</i>, an action game from <i>DmC </i>and <i>Heavenly Sword</i> developer Ninja Theory, features a hyper-masculine protagonist leaping into action with guns blazing.</p>
-<p>It was one thing for a gang of thugs to take over a city, but when they took the main character's sister, he took it personally. "When there is no justice," growls the narrator, "there can be only vengeance."</p>
-<p>A side-scrolling brawler that was announced as "an action game with touch-based combat and an '80s vibe," <i>Fightback</i> will be hitting iOS and Android "soon," according to the trailer.</p>
-  
-  
-    <iframe width="1500" height="844" src="http://www.youtube.com/embed/pTsI6M0DVNI" frameborder="0" allowfullscreen></iframe>
-  
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:110:"http://www.polygon.com/2013/6/18/4441552/ninja-theorys-new-mobile-game-fightback-gets-a-machismo-laden-trailer";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:110:"http://www.polygon.com/2013/6/18/4441552/ninja-theorys-new-mobile-game-fightback-gets-a-machismo-laden-trailer";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"John Funk";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T14:30:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T14:30:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Call of Duty: Ghosts AI development slowed by lack of final PS4, Xbox One hardware";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1422:"
-  
-
-
-
-
-  <img alt="392738010595" src="http://cdn0.sbnation.com/uploads/chorus_image/image/14977789/392738010595.0_cinema_400.0.jpeg" />
-
-
-
-
-
-  <p>Development of AI for <i>Call of Duty: Ghosts </i>is taking longer than the game's graphics because Infinity Ward has yet to receive finalized versions of the PlayStation 4 and Xbox One hardware, executive producer Mark Rubin told <a target="_blank" href="http://www.officialplaystationmagazine.co.uk/2013/06/18/call-of-duty-ghosts-ai-progressing-slower-than-graphics-due-to-lack-of-final-hardware-says-rubin/">Official PlayStation Magazine</a>.</p>
-<p>Rubin said work on AI is "slower than some of the graphics" because the studio lacks the final hardware, noting the delay has caused Infinity Ward to be more cautious with the scope of the game at this point in time.</p>
-<p>"Obviously we are in crazy early development and we will have to see how the consoles play out," Rubin said.</p>
-<p>According to Rubin, AI enemies in <i>Ghosts</i> will react differently to certain events in the environment, as well as other dynamic instances such as <a href="http://www.polygon.com/2013/6/9/4412018/call-of-duty-ghosts-dog-riley-takes-commands-through-headset" target="_blank">Riley attacking</a>.</p>
-<p>"...</p>
-  <p>
-    <a href="http://www.polygon.com/2013/6/18/4441316/call-of-duty-ghosts-ai-development-slowed-by-lack-of-ps4-xbox-one">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:106:"http://www.polygon.com/2013/6/18/4441316/call-of-duty-ghosts-ai-development-slowed-by-lack-of-ps4-xbox-one";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:106:"http://www.polygon.com/2013/6/18/4441316/call-of-duty-ghosts-ai-development-slowed-by-lack-of-ps4-xbox-one";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Tue, 18 Jun 2013 17:55:52 GMT";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:14:"content-length";s:5:"20702";s:10:"connection";s:10:"keep-alive";s:6:"status";s:6:"200 OK";s:4:"etag";s:34:""d3dff7f6ee1747ff49c1eb142c22feae"";s:9:"x-runtime";s:3:"513";s:13:"cache-control";s:35:"private, max-age=0, must-revalidate";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";}s:5:"build";s:14:"20130617175030";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Fredrik Wester";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Tue, 18 Jun 2013 20:11:32 GMT";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:14:"content-length";s:5:"21023";s:10:"connection";s:10:"keep-alive";s:6:"status";s:6:"200 OK";s:4:"etag";s:34:""2a4645face0be7714805c58cf729640c"";s:9:"x-runtime";s:4:"1172";s:13:"cache-control";s:35:"private, max-age=0, must-revalidate";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";}s:5:"build";s:14:"20130618163058";}
