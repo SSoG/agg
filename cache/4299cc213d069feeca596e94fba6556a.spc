@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Polygon -  All";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:58:"http://cdn0.sbnation.com/community_logos/42931/favicon.ico";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T21:30:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:36:"http://www.polygon.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:23:"http://www.polygon.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Polygon -  All";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:58:"http://cdn0.sbnation.com/community_logos/42931/favicon.ico";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T22:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:36:"http://www.polygon.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:23:"http://www.polygon.com/";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,28 +23,30 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T21:30:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T21:30:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:105:"Skulls of the Shogun Bone-A-Fide Edition hits Steam in July with new maps, mini-campaign, monk and more  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1196:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T22:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T22:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:49:"EA to showcase The Sims 4 at Gamescom this August";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1453:"
   
 
 
 
 
-  <img alt="393270836138" src="http://cdn1.sbnation.com/uploads/chorus_image/image/15005765/393270836138.0_cinema_400.0.jpeg" />
+  <img alt="Sims4logo" src="http://cdn3.sbnation.com/uploads/chorus_image/image/15067699/sims4logo.0_cinema_400.0.jpg" />
 
 
 
 
 
-  <p><i>Skulls of the Shogun</i>, developer 17-bit's turn-based strategy game set in the samurai afterlife, is headed to Steam as the Bone-A-Fide Edition with new maps, a new monk, a new mini-campaign and more, according to <a href="http://skullsoftheshogun.com/2013/06/17-bit-announces-skulls-of-the-shogun-bone-a-fide-edition-for-steam/">the game's official website</a>. </p>
-<p>Beyond the original campaign, which was released for Windows 8, Windows Phone and Xbox Live Arcade, the Bone-A-Fide Edition will include a mini-campaign called the Forgotten Isles, which will "challenge even die-hard skull-munchers" with four new levels. Rather than resetting like in the original campaign, troops will carry over through each level, demanding a long-term strategy.</p>
-<p>The Steam version will also include six multiplayer maps based on the Forgotten Isles, a new monk called the Tanuki...</p>
+
+
+  <p><i>The Sims 4</i>, the forthcoming installment in Electronic Arts' life simulation series, will be showcased at Gamescom this August, according to <a href="https://twitter.com/TheSims3/statuses/347049882835619841">a tweet today from the official<i> Sims 3 </i>Twitter account</a>.</p>
+<p><i>The Sims 4</i> will make its appearance on the EA stage, the tweet revealed. EA <a href="http://www.polygon.com/2013/5/6/4305058/the-sims-4-announced">announced <i>The Sims 4</i></a> last month on its official blog, writing that it's headed to Windows PC and Mac in 2014. A representative for developer Maxis said in a subsequent conference call that the next entry will return the game to its "roots."</p>
+<p>Gamescom 2013 will take place Aug. 21-15 in Cologne, Germany, and Polygon will be there to bring you all the news from EA, <a href="http://www.polygon.com/2013/2/20/4009546/nintendo-will-return-for-gamescom-2013">Nintendo</a>, <a href="http://www.polygon.com/2013/5/7/4307850/next-chapter-of-xbox-gaming-coming-to-gamescom-2013">Microsoft</a>, <a href="http://www.polygon.com/2013/5/2/4293002/the-elder-scrolls-online-will-be-playable-at-gamescom">Bethesda</a> and more.</p>
   <p>
-    <a href="http://www.polygon.com/2013/6/18/4442256/skulls-of-the-shogun-bone-a-fide-edition-steam-release-july">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/6/19/4445768/sims-4-reveal-gamescom-august-2013">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:100:"http://www.polygon.com/2013/6/18/4442256/skulls-of-the-shogun-bone-a-fide-edition-steam-release-july";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:100:"http://www.polygon.com/2013/6/18/4442256/skulls-of-the-shogun-bone-a-fide-edition-steam-release-july";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:75:"http://www.polygon.com/2013/6/19/4445768/sims-4-reveal-gamescom-august-2013";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"http://www.polygon.com/2013/6/19/4445768/sims-4-reveal-gamescom-august-2013";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
     ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Dave Tach";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
@@ -54,30 +56,32 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"Australian government to give $6M over three years to indie devs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1326:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:52:56Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:52:56Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:82:"Xbox One loses some disc-free play, family game-sharing plan with revised policies";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1234:"
   
 
 
 
 
-  <img alt="Funky-barn-screenshot_1280" src="http://cdn0.sbnation.com/uploads/chorus_image/image/15004079/funky-barn-screenshot_1280.0_cinema_400.0.jpg" />
+  <img alt="Xbox_one_live" src="http://cdn1.sbnation.com/uploads/chorus_image/image/15067407/xbox_one_live.0_cinema_400.0.jpg" />
 
 
 
 
 
-  <p>The Australian government is pledging $6 million over the next three years to 10 different indie studios, amid declines in revenue and employment for the country's game industry, Screen Australia <a href="http://www.screenaustralia.gov.au/news_and_events/2013/mr_130618_GamesEnterprise.aspx" target="new">announced today</a>.</p>
-<p>Screen Australia is an agency of the Australian federal government dedicated to supporting film, television and video game production.</p>
-<p>The new contribution to indie studios is part of Australia's continuing efforts to encourage local game development; in November, the government announced a <a target="_blank" href="http://www.polygon.com/2012/11/14/3646818/australian-government-pledges-20-million-to-assist-local-games">pledge of $20 million</a> over the next three years for studios across the country. According to Screen Australia, studios have skipped town in favor of regions with lower costs and greater incentives &mdash; a survey by the Australian Bureau of...</p>
+
+
+  <p>Today's surprise announcement, <a target="_blank" href="http://www.polygon.com/2013/6/19/4446060/xbox-one-drm-used-games-online-restrictions-180">a nearly complete reversal of a set of policies almost universally hated by gamers</a>, comes with a price, <span style="line-height: 1.5;">said Marc Whitten, corporate vice president of Xbox Live in an interview with Polygon today.</span></p>
+<p>Those unpopular policies that required online checks, limited the resale and use of used games, were tied to what Whitten called Microsoft's vision of the future, a future the console won't exactly be able to embrace with these changes.</p>
+<p>The new Xbox One secondhand game policy is identical to that of the Xbox 360, and users won't have to check in over the internet at all in order to play offline single-player games. Microsoft also said today that all Xbox One games will be region-free, a reversal of its policy on...</p>
   <p>
-    <a href="http://www.polygon.com/2013/6/18/4441934/australian-government-6m-indie-devs">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/6/19/4446308/xbox-one-family-sharing-plan-cloud-library-price-cut-plans">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:76:"http://www.polygon.com/2013/6/18/4441934/australian-government-6m-indie-devs";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"http://www.polygon.com/2013/6/18/4441934/australian-government-6m-indie-devs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:99:"http://www.polygon.com/2013/6/19/4446308/xbox-one-family-sharing-plan-cloud-library-price-cut-plans";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.polygon.com/2013/6/19/4446308/xbox-one-family-sharing-plan-cloud-library-price-cut-plans";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Brian Crecente";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -85,29 +89,76 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:31:"Ray's the Dead rises at E3 2013";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1158:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:30:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:30:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Watch PS4 lead architect Mark Cerny play the next-gen console with Jimmy Fallon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1366:"
+  
+    <p>Mark Cerny, the PlayStation 4's lead system architect and the game director of PS4 launch title <i><a href="/game/knack/10069" class="sbn-auto-link">Knack</a></i>, appeared on <i>Late Night with Jimmy Fallon</i> recently to talk about the PS4, play <i>Knack</i> and differentiate the next-gen console from the <a href="/xbox-one" class="sbn-auto-link">Xbox One</a>.</p>
+<p>Check out the video above to see <a href="http://www.polygon.com/e3-2013/2013/6/10/4417238/this-is-what-the-playstation-4-looks-like">the design Sony unveiled last week</a>, as well as a mention of the console's used game policy that <a href="http://www.polygon.com/2013/6/10/4417490/playstations-one-step-tutorial-on-sharing-used-games">Sony demonstrated in a video</a> posted shortly after the company's E3 2013 press conference. The duo also picks up the PS4 controller and plays a bit of <i>Knack</i>, which Cerny describes as a "story-driven family adventure."</p>
+<p>For more on Cerny, <i>Knack </i>and the PS4, be sure to check out <a href="http://www.polygon.com/2013/6/13/4428022/mark-cerny-talks-knack-and-playstation-4">Polygon's recent interview</a>, conducted during E3. You can also see Microsoft's Phil Spencer demo...</p>
+  
+  
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/Csr6ahk5RMg?rel=0" frameborder="0" allowfullscreen></iframe>
+  
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:64:"http://www.polygon.com/2013/6/19/4445442/jimmy-fallon-mark-cerny";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:64:"http://www.polygon.com/2013/6/19/4445442/jimmy-fallon-mark-cerny";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Dave Tach";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:21:13Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:21:13Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"Anti-slavery campaign targets Nintendo for protest day";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:966:"
+  
+    <p>A new campaign has been launched by anti-slavery organization <a target="_blank" href="http://www.walkfree.org/">Walk Free </a>that aims to persuade Nintendo to tighten up its supply chain and avoid the use of 'conflict minerals' mined by slave labor.</p>
+<p>Walk Free has launched a video lampooning Nintendo characters Mario and Luigi, which states that Nintendo has yet to respond to a forceful campaign to join an electronics industry audit program for conflict-free mineral supplies. The video points out that minerals sourced from some suppliers come from slavery operations in conflict regions, including the Democratic Republic of Congo, where miners are often forced to work at gunpoint.</p>
+<p>Walk Free's website states that the campaign aims to tell Nintendo that "slavery is not a game." It adds,...</p>
+  
+  
+    <iframe width="853" height="480" src="http://www.youtube.com/embed/hk1ftubiLoQ" frameborder="0" allowfullscreen></iframe>
+  
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:95:"http://www.polygon.com/2013/6/19/4446046/anti-slavery-campaign-targets-nintendo-for-protest-day";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:95:"http://www.polygon.com/2013/6/19/4446046/anti-slavery-campaign-targets-nintendo-for-protest-day";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Federal court upholds Nintendo's victory in Wii Fit patent lawsuit";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1297:"
   
 
 
 
 
-  <img alt="Rays-the-dead" src="http://cdn1.sbnation.com/uploads/chorus_image/image/15004099/rays-the-dead.0_cinema_400.0.jpg" />
+  <img alt="Wii-fit-balance-board_960" src="http://cdn0.sbnation.com/uploads/chorus_image/image/15064301/wii-fit-balance-board_960.0_cinema_400.0.jpg" />
 
 
 
 
 
-  <p>While <i>Ray's</i> was initially announced for PCs, designer Chris Cobb <a target="_blank" href="http://www.polygon.com/e3-2013/2013/6/14/4429126/the-indie-eight-ps4">told Polygon</a> "Sony has removed all barriers, quite literally, on their system. ... It's been easier to get our game onto a Sony platform than it has been to get on Steam." While Sony isn't funding Ragtag, they did give the developer a pretty decent piece of real estate on the show floor, where a fairly substantional chunk of <i>Ray's The Dead</i> was playable.</p>
-<p>After playing through the entirety of that demo, it's clear that <i>Ray's</i> and Ragtag have a few primary challenges ahead of them. The fundamentals of the game are easy enough to grasp, as Ray wanders first a graveyard then a small town and its streets, amassing a mob of zombies under his control in an effort to solve various...</p>
+
+
+  <p>A federal appeals court has upheld Nintendo's 2012 victory in a patent lawsuit with IA Labs over <i><a class="sbn-auto-link" href="/game/wii-fit/10390">Wii Fit</a></i>, Nintendo announced today.</p>
+<p>The opinion, issued in March 2012, ruled that Nintendo did not violate <a href="http://www.google.com/patents/US7121982" target="new">U.S. patent 7,121,982</a> in creating <i>Wii Fit</i>, its balance board or <i><a class="sbn-auto-link" href="/game/wii-fit-plus/3541">Wii Fit Plus</a></i>. The lower court also required IA Labs to compensate Nintendo for more than $236,000 in legal fees. IA Labs originally filed suit in April 2010, charging that Nintendo violated two of its patents: one for a "computer interactive isometric exercise system" and the other for a "force measurement system for an isometric exercise device."</p>
+<p>"Nintendo has a long history of developing innovative products while respecting the intellectual property rights of others. We...</p>
   <p>
-    <a href="http://www.polygon.com/2013/6/18/4440780/rays-the-dead-rises-at-e3-2013">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/6/19/4445974/wii-fit-patent-lawsuit-nintendo-ia-labs-ruling-upheld">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:71:"http://www.polygon.com/2013/6/18/4440780/rays-the-dead-rises-at-e3-2013";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:71:"http://www.polygon.com/2013/6/18/4440780/rays-the-dead-rises-at-e3-2013";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:94:"http://www.polygon.com/2013/6/19/4445974/wii-fit-patent-lawsuit-nintendo-ia-labs-ruling-upheld";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.polygon.com/2013/6/19/4445974/wii-fit-patent-lawsuit-nintendo-ia-labs-ruling-upheld";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Arthur Gies";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
     
     
     
@@ -115,52 +166,32 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:30:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:30:01Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"Benjamin Rivers' Home hits iOS June 20 with new features, Mac this summer";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1104:"
-  
-    <p><i>Home</i>, indie developer Benjamin Rivers' pixelated horror game/narrative experiment, will be released for iOS this Thursday, June 20, according to <a href="http://www.homehorror.com/mobile/">the game's official website</a>. </p>
-<p>The iOS version, which <a href="http://www.polygon.com/2012/12/31/3822106/home-release-ios-mac-2013">Rivers teased late last year</a>, has been "reprogrammed almost entirely from scratch," according to a press release from the developer, and includes new text, content and a new area to explore. It will be compatible with iPhone, iPod Touch and iPad, and the universal app will cost $2.99, the same price as <a href="http://store.steampowered.com/app/215670/">its Steam counterpart</a>. A Mac version will follow this summer. Both it and the Windows PC version will receive the iOS additions. </p>
-<p>Check out the launch trailer above to get a sense of the portable horror that awaits on iOS. For more on the...</p>
-  
-  
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/UrkBftZ3WUw" frameborder="0" allowfullscreen></iframe>
-  
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:97:"http://www.polygon.com/2013/6/18/4441954/benjamin-rivers-home-ios-release-date-june-20-mac-summer";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:97:"http://www.polygon.com/2013/6/18/4441954/benjamin-rivers-home-ios-release-date-june-20-mac-summer";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Dave Tach";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:15:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:15:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Pinball FX2 offers Sorcerer's Lair table for free this Friday";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:980:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T20:36:20Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T20:36:20Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"Xbox One no longer requires online checks, used games policy same as Xbox 360";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1142:"
   
 
 
 
 
-  <img alt="Pinball-fx-2-sorcerers-lair-xbox-live-arcade-screenshot-2" src="http://cdn1.sbnation.com/uploads/chorus_image/image/15001885/pinball-fx-2-sorcerers-lair-xbox-live-arcade-screenshot-2.0_cinema_400.0.jpg" />
+  <img alt="Xbox_one_drm_used_games_policy" src="http://cdn1.sbnation.com/uploads/chorus_image/image/15063127/xbox_one_drm_used_games_policy.0_cinema_400.0.jpg" />
 
 
 
 
 
-  <p>Zen Studios is offering the Sorcerer's Lair table in <i>Pinball FX2</i> for free this Friday for Steam users, the studio<a href="http://store.steampowered.com/news/10888/"> announced</a> today.</p>
-<p>When players download the<i> Pinball FX2</i> platform this Friday, they will also be able to download Sorcerer's Lair free of charge. The free table will have no limited free play sessions, ads or gimmicks and will be for players to keep.</p>
-<p>New tables will also be available to download for $2.99 each, including the Paranormal, Fantastic Four and Marvel Civil War tables.</p>
+
+
+  <p>Microsoft is backing down from many of the restrictive software policies it had previously outlined for its next-generation console, the Xbox One. An <a href="http://news.xbox.com/2013/06/update">update to the Xbox One website</a> details the almost total reversal of restrictions related to online check-ins, the ability to play games offline, region locking and secondhand sales of games.</p>
+<p>In short, Xbox One owners won't be required to check in to the internet every 24 hours to play their games and used games will work on the system as they did on Xbox 360.</p>
+<p>"As a result of feedback from the Xbox community, we have changed certain policies for Xbox One," Microsoft wrote on its official web site, saying its previously announced policies were "no longer accurate." Those changes were...</p>
   <p>
-    <a href="http://www.polygon.com/2013/6/18/4442698/pinball-fx2-offers-sorcerers-lair-table-for-free-this-friday">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/6/19/4446060/xbox-one-drm-used-games-online-restrictions-180">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:101:"http://www.polygon.com/2013/6/18/4442698/pinball-fx2-offers-sorcerers-lair-table-for-free-this-friday";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:101:"http://www.polygon.com/2013/6/18/4442698/pinball-fx2-offers-sorcerers-lair-table-for-free-this-friday";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:88:"http://www.polygon.com/2013/6/19/4446060/xbox-one-drm-used-games-online-restrictions-180";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.polygon.com/2013/6/19/4446060/xbox-one-drm-used-games-online-restrictions-180";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Tracey Lien";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Michael McWhertor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
     
     
     
@@ -168,30 +199,54 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:15:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:89:"New insights reveal West and Zampella's damaged relationship during Infinity Ward fallout";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1392:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T20:30:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T20:30:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"GameStick shipments delayed one month to August for UI feedback";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1140:"
+  
+    <p>Shipments for GameStick, PlayJam's diminutive Android-based micro-console, have been delayed a month and are now expected to ship in early August, according to <a href="http://www.kickstarter.com/projects/872297630/gamestick-the-most-portable-tv-games-console-ever/posts/513573">a post yesterday on the device's Kickstarter blog</a>. </p>
+<p>The device's <a href="http://www.polygon.com/2013/4/8/4196712/gamestick-backer-shipments-delayed-to-late-june">second delay</a> is necessary, its creators wrote, to ensure that Kickstarter backers are able to provide input on the GameStick's final user interface. </p>
+<p>"In the spirit of Kickstarter it would be disingenuous of us to cut out this process and not give those backers the opportunity to comment on and help perfect the UI prior to completion," the post reads. "We have therefore taken the decision to  push back the whole project by one month to ensure we can fit this process in. We appreciate that this will frustrate...</p>
+  
+  
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/sOy0zA9zLfE?rel=0" frameborder="0" allowfullscreen></iframe>
+  
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:80:"http://www.polygon.com/2013/6/19/4445278/gamestick-delayed-august-user-interface";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:80:"http://www.polygon.com/2013/6/19/4445278/gamestick-delayed-august-user-interface";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Dave Tach";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T20:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T20:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"Rayman Legends was delayed on Wii U due to fear of low sales";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1437:"
   
 
 
 
 
-  <img alt="A_modern-warfare-2-sas-chopper" src="http://cdn0.sbnation.com/uploads/chorus_image/image/15001877/a_modern-warfare-2-sas-chopper.0_cinema_400.0.jpg" />
+  <img alt="992894_550759574963099_1686751489_n" src="http://cdn0.sbnation.com/uploads/chorus_image/image/15060797/992894_550759574963099_1686751489_n.0_cinema_400.0.jpg" />
 
 
 
 
 
-  <p>Plenty has been written and said about Vince Zampella and Jason West's <a target="_blank" href="http://www.polygon.com/2012/5/30/3052430/activision-v-west-and-zampella-the-trial">departure from Activision</a> and the subsequent legal face-down. But very little has emerged about the former Infinity Ward leaders' deteriorating relationship with one another, and <a href="http://www.polygon.com/2013/3/3/4060292/respawn-jason-west-retirement" target="_blank">West quitting </a>their new venture Respawn.</p>
-<p>Vanity Fair is running a feature this week on the dramatic events that led to Zampella and West's departure from Activision, the legal tussles that followed and their new project at Respawn and Electronic Arts, <i><a class="sbn-auto-link" href="/game/titanfall/13592">Titanfall</a>.</i> It's a great story, but mostly familiar to anyone who has been following the tale of corporate bullying, double-dealing and court-room shenanigans.</p>
-<p>Writer Max Chafkin has added some new details to the story, including insights into...</p>
+
+
+  <p><a class="sbn-auto-link" href="/game/rayman-legends/3964"><i>Rayman Legends</i></a>' <a href="http://www.polygon.com/2013/2/7/3963846/rayman-legends-ps3-xbox-360-wii-u-delay">delay </a>on the Wii U was in part because of Ubisoft's fear that the console "was not going to sell enough of those games," Ubisoft CEO Yves Guillemot told <a href="http://venturebeat.com/2013/06/11/yves-guillemot-interview/2/">VentureBeat</a>.</p>
+<p>Speaking with the publication during a recent interview, Guillemot said "sometimes we have to go against the urge to get to market too fast," allowing for more time and resources to help the game reach its potential.</p>
+<p><span style="line-height: 9px;">"</span><span style="line-height: 1.5;">The game is going to be fantastic, and we didn't want those creators to wind up in a position where even after making a fantastic game, they didn't sell well enough," Guillemot said. "We decided that we had to come out on enough machines that players can try it out on any one that they have, and give more time to both improve the game on the...</span></p>
   <p>
-    <a href="http://www.polygon.com/2013/6/18/4442424/new-insights-reveal-west-and-zampellas-damaged-relationship-during">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/6/19/4445510/rayman-legends-was-delayed-on-wii-u-due-to-fear-of-low-sales">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:107:"http://www.polygon.com/2013/6/18/4442424/new-insights-reveal-west-and-zampellas-damaged-relationship-during";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.polygon.com/2013/6/18/4442424/new-insights-reveal-west-and-zampellas-damaged-relationship-during";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:101:"http://www.polygon.com/2013/6/19/4445510/rayman-legends-was-delayed-on-wii-u-due-to-fear-of-low-sales";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:101:"http://www.polygon.com/2013/6/19/4445510/rayman-legends-was-delayed-on-wii-u-due-to-fear-of-low-sales";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"Megan Farokhmanesh";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
     
     
     
@@ -199,30 +254,32 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T20:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:93:"Lost Planet 3 multiplayer pits Pirates against Pioneers, features mechs and special abilities";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1083:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T19:30:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T19:30:08Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:80:"Games for Change 2013 keynote speakers discuss broadening the horizons of gaming";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1285:"
   
 
 
 
 
-  <img alt="Multiplayer" src="http://cdn3.sbnation.com/uploads/chorus_image/image/15000947/multiplayer.0_cinema_400.0.jpg" />
+  <img alt="Games-for-change-2013-leigh-alexander_1280" src="http://cdn2.sbnation.com/uploads/chorus_image/image/15059085/games-for-change-2013-leigh-alexander_1280.0_cinema_400.0.jpg" />
 
 
 
 
 
-  <p><i>Lost Planet 3</i>'s multiplayer allows players to customize their character's abilities through a progression sphere and play through multiple team scenarios.</p>
-<p>We spent some time with the game's multiplayer at E3. During our demo, we engaged in five-versus-five multiplayer as part of the NEVEC team. NEVEC's goal was to protect a series of points around the map, while the Pirates simply needed to stall and keep NEVEC from completing its objective. A menu at the top left of the game's screen informs players of their progress by displaying bars that brighten as different objectives are achieved, which made it easy for us to track our goals at a quick glance. </p>
-<p>The match we played was a standard 10 minutes, though a representative told us they...</p>
+
+
+  <p>The 10th annual Games for Change conference kicked off Monday in New York, and the second day of sessions closed yesterday with half-hour keynotes that touched on similar topics with very different approaches.</p>
+<p>The first talk, from gaming journalist and critic Leigh Alexander (pictured above), focused on an issue she has previously advocated for in her writing and at conferences such as <a target="new" href="http://www.polygon.com/2013/4/30/4281054/different-games-conference-diversity-inclusivity-online-harassment-empathy">Different Games</a>: diversity and inclusivity in games. Jesse Schell, the CEO of Schell Games and a faculty member at Carnegie Mellon University's Entertainment Technology Center, followed Alexander to discuss the homogeneity of the American education system and the place of games in education.</p>
+<p>"The largest vertex of the [modern] commercial games industry,...</p>
   <p>
-    <a href="http://www.polygon.com/2013/6/18/4436194/lost-planet-3-multiplayer-combines-rpg-elements-with-shooter-based">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/6/19/4445018/games-for-change-2013-keynote-speakers-leigh-alexander-jesse-schell">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:107:"http://www.polygon.com/2013/6/18/4436194/lost-planet-3-multiplayer-combines-rpg-elements-with-shooter-based";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:107:"http://www.polygon.com/2013/6/18/4436194/lost-planet-3-multiplayer-combines-rpg-elements-with-shooter-based";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:108:"http://www.polygon.com/2013/6/19/4445018/games-for-change-2013-keynote-speakers-leigh-alexander-jesse-schell";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:108:"http://www.polygon.com/2013/6/19/4445018/games-for-change-2013-keynote-speakers-leigh-alexander-jesse-schell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"Megan Farokhmanesh";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -230,82 +287,31 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:20:43Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:20:43Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Black Ops 2's third DLC pack, Vengeance, launching July 2 on Xbox 360";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1498:"
-  
-    <p>The third of four map packs for <i><a class="sbn-auto-link" href="/game/call-of-duty-black-ops-2/2217">Call of Duty: Black Ops 2</a></i> is called <i>Vengeance</i>, and it will be released July 2 on Xbox Live Marketplace, publisher Activision announced today.</p>
-<p>The downloadable content will feature three new maps &mdash; Cove, Detour (screenshot above) and Rush &mdash; and a fourth, Uplink, that is a remake of the Summit map from the original <em><a href="/game/call-of-duty-black-ops/2176%E2%80%8E" class="sbn-auto-link">Call of Duty: Black Ops</a></em>. It also includes a new Zombies game type, Buried, that comes with a new weapon for the Zombies mode, the Ray Gun Mark II.</p>
-<p>There's no word yet on the price, or on the release date for other platforms. The game's first two DLC packs, <i><a href="http://www.polygon.com/2013/1/8/3852022/black-ops-2-revolution-map-pack-announced-rollout-begins-jan-29" target="new">Revolution</a></i> and <i><a href="http://www.polygon.com/2013/4/4/4183506/black-ops-2-uprising-dlc-hits-xbox-360-on-april-16-adds-four-maps-and" target="new">Uprising</a></i>, each cost 1,200 Microsoft Points ($15) for players who don't own the <a href="http://www.polygon.com/2012/10/22/3538712/call-of-duty-elite-free-season-pass-map-packs" target="_blank">Season Pass</a>. All Call of Duty DLC packs are...</p>
-  
-  
-    <iframe width="853" height="480" src="http://www.youtube.com/embed/O-78MwnAAXI" frameborder="0" allowfullscreen></iframe>
-  
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:88:"http://www.polygon.com/2013/6/18/4442546/black-ops-2-dlc-vengeance-release-date-xbox-360";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:88:"http://www.polygon.com/2013/6/18/4442546/black-ops-2-dlc-vengeance-release-date-xbox-360";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Samit Sarkar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T19:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:86:"Hands on with F.R.E.S.H., Squaresville and Parapluie, three new titles on Sifteo Cubes";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1252:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T19:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-19T19:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:87:"Infamous: Second Son explores the tradeoffs between freedom and security, producer says";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1223:"
   
 
 
 
 
-  <img alt="Sifteo_cubes" src="http://cdn2.sbnation.com/uploads/chorus_image/image/14997539/sifteo_cubes.0_cinema_400.0.png" />
+  <img alt="393348894178" src="http://cdn1.sbnation.com/uploads/chorus_image/image/15057017/393348894178.0_cinema_400.0.jpeg" />
 
 
 
 
 
-  <p>During E3 2013, we had the chance to go hands with Sifteo Cubes titles <i>F.R.E.S.H., Squaresville </i>and <i>Parapluie, </i>three titles that offer arcade-style gaming.</p>
-<p>Sifteo Cubes are a<span style="line-height: 1.5;"> motion-aware gaming platform are a lot like a mix between a Wii, an iPhone and LEGO blocks, director of production Bernie Lin told us. Each tiny block has a touch-based screen that players can tap, touch, stack or line up to interact with. Formerly known as Siftables, Sifteo Cubes made their debut in 2011 and were followed by a second generation, which featured touch sensitivity and additional control support, in 2012. </span></p>
-<p>We first tested out <i style="line-height: 1.5;">F.R.E.S.H. </i><span style="line-height: 1.5;">is a </span><i style="line-height: 1.5;">WarioWare</i><span style="line-height: 1.5;">-style homage to '80s hip hop. The goal is to complete a series of mini games as fast as possible to...</span></p>
+
+
+  <p><i>Infamous: Second Son </i>will explore the tradeoffs made between freedom and security, Brian Fleming, a producer at developer Sucker Punch Productions, told Polygon during E3. </p>
+<p>When Sucker Punch's game director <a href="http://www.polygon.com/2013/2/20/4009042/playstation-4-sucker-punch-infamous-second-son">Nate Fox unveiled the game</a> during the February event in which Sony revealed the PlayStation 4, he recounted the story of being tear-gassed by police forces during a World Trade Organization protest in 1999. That event, he said, taught him that "Our security comes at a hight price: our freedom." </p>
+<p></p>
+<p>Fleming said that <i>Infamous: Second Son </i>explores that theme, through the game isn't necessarily didactic. </p>
+<p>"I think the themes of <i>Infamous</i>[<i>: Second Son</i>] are maybe along those lines, but maybe more the tradeoffs that you and I and really...</p>
   <p>
-    <a href="http://www.polygon.com/2013/6/18/4432058/sifteo-cubes-offer-diverse-portable-gaming">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/6/19/4445084/infamous-second-son-explores-the-tradeoffs-between-freedom-security">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:83:"http://www.polygon.com/2013/6/18/4432058/sifteo-cubes-offer-diverse-portable-gaming";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.polygon.com/2013/6/18/4432058/sifteo-cubes-offer-diverse-portable-gaming";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:108:"http://www.polygon.com/2013/6/19/4445084/infamous-second-son-explores-the-tradeoffs-between-freedom-security";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:108:"http://www.polygon.com/2013/6/19/4445084/infamous-second-son-explores-the-tradeoffs-between-freedom-security";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:18:"Megan Farokhmanesh";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-06-18T18:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"Pikmin 3: Little plants in the shadows of giants";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1040:"
-  
-
-
-
-
-  <img alt="Cover" src="http://cdn0.sbnation.com/uploads/chorus_image/image/14995323/cover.0_cinema_400.0.jpg" />
-
-
-
-
-
-  <p>Pikmin has always been a strange series to pursue as a major tentpole franchise. It's a busy game, with lots of moving pieces &mdash; both on a mechanical and visual level. It's a deeply, surprisingly complex strategy game, a genre that Nintendo's not especially well-known for, and a genre that its casual-leaning audience doesn't have much crossover interest in. Despite those assumptions, Pikmin has a huge and devout fanship that's been waiting on its next installment since <em>Pikmin 2</em>, which was released nearly a decade ago.
-<br><br><q>Pikmin 3 was first announced in 2008</q>
-
-</p>
-<p>Shigeru Miyamoto is among that fanbase. In an interview with Polygon, Nintendo of America's Bill Trinen &mdash; who translated for Miyamoto &mdash; said <em>Pikmin 3</em> was one of Miyamoto's...</p>
-  <p>
-    <a href="http://www.polygon.com/2013/6/18/4439582/pikmin-3">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:3:"rel";s:9:"alternate";s:4:"href";s:49:"http://www.polygon.com/2013/6/18/4439582/pikmin-3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:49:"http://www.polygon.com/2013/6/18/4439582/pikmin-3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Griffin McElroy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Tue, 18 Jun 2013 21:35:34 GMT";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:14:"content-length";s:5:"19701";s:10:"connection";s:10:"keep-alive";s:6:"status";s:6:"200 OK";s:4:"etag";s:34:""87ec0ca89692aad32b65c6c025a83dc9"";s:9:"x-runtime";s:3:"709";s:13:"cache-control";s:35:"private, max-age=0, must-revalidate";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";}s:5:"build";s:14:"20130618163058";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:9:"Dave Tach";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Wed, 19 Jun 2013 22:11:35 GMT";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:14:"content-length";s:5:"20436";s:10:"connection";s:10:"keep-alive";s:6:"status";s:6:"200 OK";s:4:"etag";s:34:""5ae2fc7f4ce70ac45fbc38753de419b3"";s:9:"x-runtime";s:3:"522";s:13:"cache-control";s:35:"private, max-age=0, must-revalidate";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";}s:5:"build";s:14:"20130618163058";}

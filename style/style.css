@@ -21,33 +21,33 @@ body {
         color: #FFFFE0;
 	}
     .item.joystiq {
-        background:#F9A51B url('../images/joystiq.png') no-repeat right bottom;
+        background:#0C3373 url('../images/joystiq.png') no-repeat right bottom;
         background-size: 100px;
-        border: 10px solid #F9A51B;
+        border: 10px solid #0C3373;
         border-top: 0px;
     }
     .item.destructoid {
-        background:#CC0000 url('../images/destructoid.jpg') no-repeat right bottom;
+        background:#730c0c url('../images/destructoid.jpg') no-repeat right bottom;
         background-size: 100px;
-        border: 10px solid #CC0000;
+        border: 10px solid #730c0c;
         border-top: 0px;
     }
     .item.polygon {
-        background:#8C487F url('../images/polygon.png') no-repeat right bottom;
+        background:#730c5f url('../images/polygon.png') no-repeat right bottom;
         background-size: 100px;
-        border: 10px solid #8C487F;
+        border: 10px solid #730c5f;
         border-top: 0px;
     }
     .item.kotaku {
-        background:#604135 url('../images/kotaku.png') no-repeat right bottom;
+        background:#736c0c url('../images/kotaku.png') no-repeat right bottom;
         background-size: 100px;
-        border: 10px solid #604135;
+        border: 10px solid #736c0c;
         border-top: 0px;
     }
     .item.siliconera {
-        background:#32CD32 url('../images/siliconera.jpg') no-repeat right bottom;
+        background:#0c730c url('../images/siliconera.jpg') no-repeat right bottom;
         background-size: 100px;
-        border: 10px solid #32CD32;
+        border: 10px solid #0c730c;
         border-top: 0px;
     }
     a:link {
