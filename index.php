@@ -136,11 +136,13 @@ $feed->handle_content_type();
         <div id = "article"
         onmouseover="this.style.cursor='hand'; this.style.opacity=.6; this.filters.alpha.opacity=60" 
         onmouseout= "this.style.opacity=1; this.filters.alpha.opacity=100" 
-        onclick= "window.location.href = '<?php echo $item->get_permalink(); ?>'"
+        onclick= "window.open('<?php echo $item->get_permalink(); ?>', '_blank');"
         class= "item <?php echo $color;?>">
         	<h2><?php echo $item->get_title(); ?></h2>
-			<div class = "longtext"><?php echo $item->get_description(); ?></div>
-			<p><small>Posted on <?php echo $item->get_date('j F Y | g:i a'); ?></small></p>            
+        	<!--Get the article text.  So there's no links in the article, I replace "href" with a space.--> 
+        	<!--There are no English words that contain "href" so it shouldn't effect the article content.-->
+			<div class = "longtext"><?php $desc = str_replace('href', ' ', $item->get_description()); echo $desc;?></div>
+			<p><small>Posted on <?php echo $item->get_date('j F Y | g:i a'); ?></small></p>          
         </div>
         
 	<?php endforeach; ?>
