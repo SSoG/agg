@@ -1,4 +1,0 @@
-agg
-===
-
-Gaming News Aggregator

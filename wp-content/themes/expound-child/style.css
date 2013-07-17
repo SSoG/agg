@@ -1,0 +1,55 @@
+/*
+Theme Name:     Expound Child
+Theme URI:      http://ssogaming.com/
+Description:    Child theme for the Expound theme
+Author:         Caleb Caldwell
+Author URI:     http://ssogaming.com
+Template:       expound                             
+Version:        0.1.0
+*/
+
+@import url("../expound/style.css");
+
+.searchform
+{
+    margin-left: 64px;
+}
+
+pre
+{
+    background-color: white !important;
+    overflow: hidden !important;
+}
+
+.story
+{
+    font-family:Consolas, Monaco, 'Lucida Console';
+    background-color:#0C3373;
+    color: #FFFFE0;
+    width: 350px;
+    float: left;
+    margin: 10px;
+    max-height: 500px;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    box-shadow:#888888 10px 10px 5px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.story a
+{
+    color: #FFFFE0;
+    text-decoration: none;
+}
+
+.story img
+{
+    max-width: 300px;
+}
+
+#primary
+{
+}

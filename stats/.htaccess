@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "ssogaming.com Statistics"
+AuthUserFile /var/chroot/home/content/46/10428646/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html
