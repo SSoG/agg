@@ -46,6 +46,15 @@ pre
 	-moz-border-radius: 20px !important;	
 }
 
-#primary
+.widget-area
 {
+	max-width: 230px;
+	max-height: 425px !important;
+	margin-top: -45px;
+}
+
+#twitter-widget-0
+{
+	max-width: 230px;
+	max-height: 425px !important;
 }
