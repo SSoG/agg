@@ -2,7 +2,7 @@
 
 .searchform
 {
-    margin-left: 64px;
+    margin-left: 60px;
 }
 
 pre
@@ -42,19 +42,22 @@ pre
 
 .roundedcorners
 {	
-	border-radius: 20px !important;
-	-moz-border-radius: 20px !important;	
+	border-top-right-radius: 20px !important;
+	border-top-left-radius: 20px !important;
+	-moz-border-top-radius: 20px !important;	
 }
 
-.widget-area
+.featured-content
 {
-	max-width: 230px;
-	max-height: 425px !important;
-	margin-top: -45px;
+	background-color: #c0c0c0;
 }
 
-#twitter-widget-0
+.featured-content-secondary
 {
-	max-width: 230px;
-	max-height: 425px !important;
+	max-width: 500px;
+	float: left;
+}
+.featured-content-secondary .entry-summary
+{
+	height: 200px;
 }

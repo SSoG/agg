@@ -257,7 +257,7 @@ function expound_get_featured_posts() {
 
 	if ( empty( $sticky ) ) {
 		return new WP_Query( array(
-			'posts_per_page' => 4,
+			'posts_per_page' => 5,
 			'ignore_sticky_posts' => true,
 		) );
 	}

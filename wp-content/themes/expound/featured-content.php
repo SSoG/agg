@@ -47,7 +47,7 @@
 				<?php the_excerpt(); ?>
 			</div><!-- .entry-summary -->
 		</article>
-	<?php if (is_home()) get_sidebar(); ?>
+
 	<?php endwhile; ?>
 </div><!-- .featured-content-secondary -->
 <?php endif; // have_posts() inner ?>

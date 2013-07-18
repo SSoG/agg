@@ -70,6 +70,7 @@ get_header(); ?>
 	<?php
 		if ( is_home() && ! is_paged() ) // condition should be same as in pre_get_posts
 			get_template_part( 'featured-content' );
+		if (is_home()) get_sidebar();
 	?>
 
 	<div id="primary" class="content-area">
