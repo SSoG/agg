@@ -1,13 +1,3 @@
-/*
-Theme Name:     Expound Child
-Theme URI:      http://ssogaming.com/
-Description:    Child theme for the Expound theme
-Author:         Caleb Caldwell
-Author URI:     http://ssogaming.com
-Template:       expound                             
-Version:        0.1.0
-*/
-
 @import url("../expound/style.css");
 
 .searchform
@@ -48,6 +38,12 @@ pre
 .story img
 {
     max-width: 300px;
+}
+
+.roundedcorners
+{	
+	border-radius: 20px !important;
+	-moz-border-radius: 20px !important;	
 }
 
 #primary
