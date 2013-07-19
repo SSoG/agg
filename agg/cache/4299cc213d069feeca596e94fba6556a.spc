@@ -15,7 +15,7 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
-";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Polygon -  All";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:58:"http://cdn0.sbnation.com/community_logos/42931/favicon.ico";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T21:15:42Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:36:"http://www.polygon.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:23:"http://www.polygon.com/";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
+";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Polygon -  All";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:58:"http://cdn0.sbnation.com/community_logos/42931/favicon.ico";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T13:30:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:36:"http://www.polygon.com/rss/index.xml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:23:"http://www.polygon.com/";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:38:"
     
     
     
@@ -23,13 +23,13 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T21:15:42Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T21:15:42Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"Super Street Fighter 4 getting five new characters in 2014 (update)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1274:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T13:30:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T13:30:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"Report: Atlus parent company delisting stock next week";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1171:"
   
 
 
 
 
-  <img alt="Street_fighter_4_2014" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16363357/street_fighter_4_2014.0_cinema_400.0.jpg" />
+  <img alt="Soul_hackers_chaos" src="http://cdn2.sbnation.com/uploads/chorus_image/image/16608395/soul_hackers_chaos.0_cinema_400.0.jpeg" />
 
 
 
@@ -37,18 +37,19 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p>Capcom will expand the roster of <i>Super Street Fighter 4</i> by five in early 2014 with the addition of Hugo, Poison, Rolento, Elena and an all-new, never-before-seen fighter, the company announced at the Evo fighting game championships today.</p>
-<p>The $15 add-on, coming to the PlayStation 3, Xbox 360 and Windows PC versions of the game, will also add new stages and requisite balance updates. According to a report from Rod "<a href="https://twitter.com/Slasher/status/356138435716710400">Slasher</a>" Breslau, Capcom says it will show the expansion's first trailer and reveal the name of the update &mdash; no longer <i>Super Street Fighter 4 Arcade Edition</i> &mdash; on Sunday, July 14, prior to the <i>Super Street Fighter 4</i> Evo finals.</p>
-<p>The official <a href="http://evo.shoryuken.com/2013/07/09/how-to-watch-evo-2013-a-viewers-guide/">Evo 2013 streaming schedule</a> has a block reserved for "special presentations" at...</p>
+  <p>Index Corporation, the parent company of Persona and Shin Megami Tensei developer Atlus, is facing stock delisting and plans to auction off its holdings, reports <a href="http://www.bloomberg.co.jp/news/123-MQ43E21A74E901.html" target="_blank">Bloomberg Japan</a>.</p>
+<p>Index will have its stock delisted on July 28 and will begin accepting bids for its operations as early as next week. The company's market value also fell from 6.8 billion yen ($67.7 million) to 1.08 billion yen ($10.8 million).</p>
+<p>According to the report, sales are expected to net around 15 billion yen ($149 million USD). Index's decision to offload some of its holdings suggests the company is trying to protect the value of its subsidiaries, which include Japanese developer Atlus and its North American publishing branch.</p>
+<p>The report also states that Index CEO...</p>
   <p>
-    <a href="http://www.polygon.com/2013/7/13/4520896/super-street-fighter-4-getting-five-new-characters-in-2014">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/7/19/4537750/report-atlus-parent-company-delisting-stock-next-week">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:99:"http://www.polygon.com/2013/7/13/4520896/super-street-fighter-4-getting-five-new-characters-in-2014";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:99:"http://www.polygon.com/2013/7/13/4520896/super-street-fighter-4-getting-five-new-characters-in-2014";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:94:"http://www.polygon.com/2013/7/19/4537750/report-atlus-parent-company-delisting-stock-next-week";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.polygon.com/2013/7/19/4537750/report-atlus-parent-company-delisting-stock-next-week";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Michael McWhertor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:1;a:6:{s:4:"data";s:38:"
     
     
     
@@ -56,13 +57,13 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T21:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"Cerny seeks return to PlayStation era of originality";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1321:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T13:15:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T13:15:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Why the unionization of eSports is a difficult if not impossible road";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1066:"
   
 
 
 
 
-  <img alt="Mark_cerny_2" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16362853/mark_cerny_2.0_cinema_400.0.jpg" />
+  <img alt="Dsc_8960" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16607727/dsc_8960.0_cinema_400.0.jpg" />
 
 
 
@@ -70,18 +71,17 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p>PlayStaton 4 architect Mark Cerny believes the past offers some great examples for his vision of game development in the next generation.</p>
-<p>Speaking to <a target="_blank" href="http://www.edge-online.com/news/ps4-can-kickstart-another-golden-age-of-game-diversity-says-mark-cerny/">Edge</a>, he said that the original PlayStation era (1994) is still an inspiration to him. "I feel like the magical time was the early years of the PlayStation because there was such a variety of products coming out," he said. "There wasn't this sort of consistent overarching pattern that you might have seen in the last few years in the PlayStation 3 generation, and I really think we're heading back to that time. I think that's a very good thing."</p>
-<p>Last week at the Develop conference, Cerny <a target="_blank" href="http://www.polygon.com/2013/7/10/4510458/how-mark-cerny-became-the-lead-architect-for-ps4">talked about how he became involved</a> in designing the new machine and working with developers around the...</p>
+  <p>Thanks to event organizers like Major League Gaming and major tournaments like LCS, the growing number of professional gamers have a public platform to begin careers within the eSports community; but, as the population of pro-gaming continues to grow the question of whether they are beginning to require a means of protecting their career in this young industry remains unanswered.</p>
+<p>The protection of their careers through the creation of unions is an issue that still hasn't been tackled head-on by eSports organizers or players. While some professional players are outspoken in their opinion that unions will eventually be necessary, others simply think it's an impossible task. Speaking to Polygon, Matt Weber - director of operations for...</p>
   <p>
-    <a href="http://www.polygon.com/2013/7/13/4520426/cerny-seeks-return-to-playstation-era-of-originality">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/7/19/4506524/gaming-will-be-a-legitimate-profession-for-hundreds-in-next-few-years">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:93:"http://www.polygon.com/2013/7/13/4520426/cerny-seeks-return-to-playstation-era-of-originality";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:93:"http://www.polygon.com/2013/7/13/4520426/cerny-seeks-return-to-playstation-era-of-originality";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:110:"http://www.polygon.com/2013/7/19/4506524/gaming-will-be-a-legitimate-profession-for-hundreds-in-next-few-years";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:110:"http://www.polygon.com/2013/7/19/4506524/gaming-will-be-a-legitimate-profession-for-hundreds-in-next-few-years";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Emily Gera";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:2;a:6:{s:4:"data";s:38:"
     
     
     
@@ -89,13 +89,13 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T19:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T19:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:44:"Tomb Raider slashed 75% in Steam summer sale";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1446:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T13:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T13:00:02Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"State of Decay sandbox mode will test how long players can last";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1193:"
   
 
 
 
 
-  <img alt="Tomb_raider" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16359359/tomb_raider.0_cinema_400.0.jpeg" />
+  <img alt="State-of-decay-trailer_8" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16606759/state-of-decay-trailer_8.0_cinema_400.0.jpg" />
 
 
 
@@ -103,32 +103,18 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p><span style="line-height: 1.5;">Steam's </span><a href="http://www.polygon.com/2013/7/11/4514744/steam-summer-sale-2013" target="_blank">summer sale</a><span style="line-height: 1.5;"> is now in full swing, with a new bevy of daily deals, including <i>Tomb Raider </i>for $12.49.</span></p>
-<p>Steam has published its Day 3 list of offers which include 75 percent cuts for<a href="http://www.polygon.com/game/tomb-raider-2013/2348" target="_blank"> the highly regarded <i>Tomb Raider </i></a>and <i>The Witcher 2. Borderlands 2, Stardrive, Sniper Elite</i> and <i>RPG Maker VX Ace</i> are down 66 percent while<i> Resident Evil 6, Mars: War Logs, Age of Empires 2 HD</i> and <i>Might and Magic VI </i>are down 50 percent.</p>
-<p>Many of these offers are valid for only one day. Here's the list in full...</p>
-<ul>
-<li>
-<i>Tomb Raider</i> $12.49 (regularly $49.99)</li>
-<li>
-<i>Borderlands 2</i> $10.19 (regularly $29.99)</li>
-<li>
-<i>Resident Evil 6</i> $19.99 (regularly $39.99)</li>
-<li>
-<i>The Witcher 2</i> $4.99 (regularly $19.99)</li>
-<li>
-<i>RPG Maker VX Ace</i> $23.79 (regularly $69.99)</li>
-<li>
-<i>Stardrive</i> $10.19 (regularly...</li>
-</ul>
+  <p>The upcoming add-on sandbox mode for Undead Labs' <i>State of Decay</i> is designed to test how long players can survive a zombie apocalypse without the limitations imposed by a storyline, according to a recent <a target="_blank" href="http://undeadlabs.com/2013/07/news/enter-sandbox/">post </a>on the developer's blog.</p>
+<p>Undead Labs views surviving the zombie apocalypse as a war of attrition, and once resources have been used or a person dies, they are gone forever. A game that truly tests survival skills will not have respawning supplies. Players will scavenge houses, lose allies and run their stores into the ground before having to pick up and move on to a new location &mdash; which is also infested with zombies.</p>
+<p>"'Could I survive a zombie attack?'" Undead Labs' Geoffrey wants players to ask themselves. "There are scores of...</p>
   <p>
-    <a href="http://www.polygon.com/2013/7/13/4520642/tomb-raider-slashed-75-in-steam-summer-sale">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/7/19/4537694/state-of-decay-sandbox-mode-will-test-how-long-players-can-last">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:84:"http://www.polygon.com/2013/7/13/4520642/tomb-raider-slashed-75-in-steam-summer-sale";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:84:"http://www.polygon.com/2013/7/13/4520642/tomb-raider-slashed-75-in-steam-summer-sale";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:104:"http://www.polygon.com/2013/7/19/4537694/state-of-decay-sandbox-mode-will-test-how-long-players-can-last";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:104:"http://www.polygon.com/2013/7/19/4537694/state-of-decay-sandbox-mode-will-test-how-long-players-can-last";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:3;a:6:{s:4:"data";s:38:"
     
     
     
@@ -136,13 +122,13 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T18:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T18:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"New console pre-order window closing tight";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1687:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:41:30Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:41:30Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:50:"Homestuck creator developing Namco High dating sim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1128:"
   
 
 
 
 
-  <img alt="Screen_shot_2013-05-30_at_8" src="http://cdn0.sbnation.com/uploads/chorus_image/image/16357595/screen_shot_2013-05-30_at_8.03.58_am.0_cinema_400.0.png" />
+  <img alt="Tumblr_mq5tl1ggcf1s3b60so1_500" src="http://cdn0.sbnation.com/uploads/chorus_image/image/16606179/tumblr_mq5tl1ggcf1s3b60so1_500.0_cinema_400.0.png" />
 
 
 
@@ -150,19 +136,19 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p>As retailers around the U.S. close down their pre-order programs for PlayStation 4 and Xbox One, the opportunity to secure a launch day console are diminishing to zero.</p>
-<p>Last week GameStop <a href="http://www.polygon.com/2013/7/9/4506276/gamestop-ceases-playstation-4-pre-orders" target="_blank">closed down its PlayStation 4</a> pre-order campaign, both in-store and online. Back in June, the company <a href="http://www.polygon.com/2013/6/19/4445098/gamestop-hits-xbox-one-launch-cap-ceases-pre-orders" target="_blank">stopped taking pre-orders </a>for Xbox One from its stores, although, until recently, it was still possible to order an Xbox One online, for in-store pick-up.</p>
-<p>Although online orders for Xbox One were suspended, <a href="http://www.gamestop.com/xbox-one/consoles/xbox-one-day-one-edition/109961" target="_blank">new units became available</a> this weekend, but have now sold out. A spokesperson for GameStop told Polygon that this was very much a "while supplies last" situation.</p>
-<p>Best Buy is <a href="http://www.polygon.com/2013/7/10/4510626/best-buy-no-longer-accepting-xbox-one-pre-orders" target="_blank">not selling Xbox One</a> but still has <a href="http://www.bestbuy.com/site/Sony---PlayStation-4-(500GB)/8240103.p?id=1218866963585&amp;skuId=8240103" target="_blank">PlayStation 4 on offer </a>via its...</p>
+  <p>Namco Bandai is teaming up with webcomic creator Andrew Hussie and What Pumpkin Studios to develop <i>Namco High</i>, a new browser-based dating sim based around characters from various Namco Bandai franchises.</p>
+<p>Produced under the supervision of Andrew Hussie, best know as creative director behind <i>Homestuck</i>, the browser game will feature a high school populated with video game characters that the player can presumably develop relationships with.</p>
+<p>"There is no creator with more of a vibrant originality right now than Andrew Hussie," said ShiftyLook producer Rob Pereyda. "We are beyond excited to see where he takes these characters and the unique relationships that will literally unfold between them."</p>
+<p><i>Namco High </i>will release onto ShiftyLook.com...</p>
   <p>
-    <a href="http://www.polygon.com/2013/7/13/4520504/new-console-pre-order-window-closing-tight">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/7/19/4537684/homestuck-creator-developing-namco-high-dating-sim">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:83:"http://www.polygon.com/2013/7/13/4520504/new-console-pre-order-window-closing-tight";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:83:"http://www.polygon.com/2013/7/13/4520504/new-console-pre-order-window-closing-tight";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:91:"http://www.polygon.com/2013/7/19/4537684/homestuck-creator-developing-namco-high-dating-sim";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:91:"http://www.polygon.com/2013/7/19/4537684/homestuck-creator-developing-namco-high-dating-sim";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Emily Gera";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:4;a:6:{s:4:"data";s:38:"
     
     
     
@@ -170,13 +156,80 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T17:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T17:00:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"Magnavox Odyssey inventor Baer is certain of his own legacy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1250:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"Shadowrun Returns trailer shows tech mixing with magic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:885:"
+  
+    <p>The launch trailer for <i>Shadowrun Returns</i>, Harebrained Schemes revival of the Shadowrun role-playing series, shows what happens to our world when high-tech world when ancient magic runs free.</p>
+<p>In the cyperpunk/fantasy world of 2054, players walk the streets alongside dwarves, orcs and elves, carrying out the dirty work of powerful corporations. The trailer above introduces viewers to this world and the dangerous tasks they'll have to take on to survive. </p>
+<p><i>Shadowrun Returns</i> will <a href="http://www.polygon.com/2013/6/18/4441602/shadowrun-returns-delay-release-date-editing-tools" target="_blank">launch</a> for Windows PC, Mac, iOS and Android on July 25. A Linux version will be available at a later date.</p>
+  
+  
+    <iframe width="640" height="360" src="//www.youtube.com/embed/UFYsQ0M2Jrg" frameborder="0" allowfullscreen></iframe>
+  
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:95:"http://www.polygon.com/2013/7/19/4537672/shadowrun-returns-trailer-shows-tech-mixing-with-magic";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:95:"http://www.polygon.com/2013/7/19/4537672/shadowrun-returns-trailer-shows-tech-mixing-with-magic";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:04:30Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:04:30Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:34:"Ace Combat Infinity coming to PS3 ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:714:"
+  
+    <p>Namco Bandai and developer Project Aces announced today the development of <i>Ace Combat Infinity</i>, a new entry in the arcade flight simulation series Ace Combat which will release on PlayStation 3 consoles.</p>
+<p>The game's short teaser trailer released to Namco Bandai's official <a target="_blank" href="http://www.youtube.com/watch?v=FWuzU1aK0jo">YouTube </a>page today with little information. The video hints at a possible premise relating to an asteroid on a collision course with Earth in the year 2019.</p>
+<p>You can check out the video in full above.</p>
+  
+  
+    <iframe width="853" height="480" src="//www.youtube.com/embed/FWuzU1aK0jo" frameborder="0" allowfullscreen></iframe>
+  
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:74:"http://www.polygon.com/2013/7/19/4537552/ace-combat-infinity-coming-to-ps3";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:74:"http://www.polygon.com/2013/7/19/4537552/ace-combat-infinity-coming-to-ps3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Emily Gera";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T12:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"XCOM Declassified's second video sends secret messages";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1097:"
+  
+    <p>2K Games is releasing a live-action video series that complements <i><a class="sbn-auto-link" href="/game/the-bureau-xcom-declassified/11688">The Bureau: XCOM Declassified</a></i> in the lead-up to the game's Aug. 20 launch.</p>
+<p>The series began as a standalone live-action trailer, which was<a href="http://www.polygon.com/2013/4/26/4268456/the-bureau-xcom-declassified-hits-aug-20"> released back in April </a>and told a fragmented story of an alien conspiracy. Due to the great response it received, 2K commissioned more videos, with the second live-action trailer launching today (see above).</p>
+<p>The video is full of allusions to the game, with alien-looking silhouettes appearing in reflections, Morse code playing at the 38 second mark that translates to "Outsiders are here" and references to the first and future trailers.</p>
+<p>A 2K spokesperson told Polygon that there are easter eggs within the video that reveal when the next...</p>
+  
+  
+    <iframe width="853" height="480" src="//www.youtube.com/embed/PeInd-ewA4g" frameborder="0" allowfullscreen></iframe>
+  
+
+
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:94:"http://www.polygon.com/2013/7/19/4536776/xcom-declassifieds-second-video-sends-secret-messages";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:94:"http://www.polygon.com/2013/7/19/4536776/xcom-declassifieds-second-video-sends-secret-messages";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+      
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Tracey Lien";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    
+    
+    
+    
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T11:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T11:30:06Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:31:"Dota 2 now out on Linux and Mac";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1354:"
   
 
 
 
 
-  <img alt="Rhb-in-lab-copy-640x507" src="http://cdn0.sbnation.com/uploads/chorus_image/image/16355785/rhb-in-lab-copy-640x507.0_cinema_400.0.png" />
+  <img alt="Dota_2_beta" src="http://cdn0.sbnation.com/uploads/chorus_image/image/16603689/dota_2_beta.0_cinema_400.0.jpg" />
 
 
 
@@ -184,18 +237,20 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p>Ralph Baer, the 91-year old inventor of the world's first home console, the Magnavox Odyssey, is pretty sure his legacy is intact, despite various claimants to the honor of bringing video games into the world.</p>
-<p>In a new interview with<a target="_blank" href="http://arstechnica.com/gaming/2013/07/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/"> Ars Technica</a>, the retired engineer looks back at some of the earliest attempts to make video games, including academic experiments <i>Tennis for Two</i> and <i>Spacewar</i>, neither of which, he said, had any influence on his commercial work in the late 1960s and early 1970s.</p>
-<p>He reserves his most cutting remarks for old rival Nolan Bushnell, who released the <i>Pong</i> arcade machine a year after the launch of Magnavox Odyssey, and later lost a patent infringement case with Magnavox. Bushnell is often credited with being the...</p>
+  <p>Valve announced today the launch of <i><a class="sbn-auto-link" href="/game/dota-2/2243">Dota 2</a></i> on Linux and Mac, following last week's <a href="http://www.polygon.com/2013/7/9/4509236/dota-2-now-out-of-beta-valve-throttling-new-players" target="_blank">official release</a> of the game on Windows PC after an extended period in beta.</p>
+<p>The company announced the launch in its latest patch notes for the free-to-play title, which features a number of improvements to the game including tweaks to its interface, visuals, matchmaking and gameplay. You can check out the patch notes in full <a href="http://store.steampowered.com/news/11109/" target="_blank">right here</a>.</p>
+<p>The Mac and Linux minimum specs are as follows:</p>
+<p><b>Mac:</b><br>Mac OS X Lion 10.7 <br>4GB RAM<br>8GB Hard drive space<br>nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher</p>
+<p><b>Linux:</b><br>Ubuntu 12.04<br>Dual core from Intel or AMD at 2.8 GHz<br>4GB RAM<br>8GB Hard Drive Space<br>nVidia GeForce 8600/9600GT, ATI/AMD Radeaon HD2600/3600...</p>
   <p>
-    <a href="http://www.polygon.com/2013/7/13/4520326/magnavox-odyssey-inventor-baer-is-certain-of-his-own-legacy">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/7/19/4537586/dota-2-now-out-on-linux-and-mac">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:100:"http://www.polygon.com/2013/7/13/4520326/magnavox-odyssey-inventor-baer-is-certain-of-his-own-legacy";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:100:"http://www.polygon.com/2013/7/13/4520326/magnavox-odyssey-inventor-baer-is-certain-of-his-own-legacy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:72:"http://www.polygon.com/2013/7/19/4537586/dota-2-now-out-on-linux-and-mac";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"http://www.polygon.com/2013/7/19/4537586/dota-2-now-out-on-linux-and-mac";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:5;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Emily Gera";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
     
     
     
@@ -203,36 +258,13 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T16:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T16:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:51:"Valve opens Pipeline to aid budding game developers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1047:"
-  
-    <p><span style="line-height: 1.5;">Valve has launched a community website aimed at helping high school students who are seeking a career in the video game industry.</span></p>
-<p><a style="line-height: 16px;" href="http://pipeline.valvesoftware.com/" target="_blank">Pipeline</a> was created by a group of high school interns working at Valve, and aims to "establish a connection to the world of teenagers that are asking many questions about getting into the gaming industry," according to the site's FAQ.</p>
-<p>"This website was created entirely be teenagers," said Valve's managing director Gabe Newell, in the service's accompanying promotional video.</p>
-<p>According to the Pipeline FAQ, Valve's management wants to find a way to connect with young, aspiring game-makers. "Traditionally Valve has been a very good place for very experienced video game developers, and not so good at teaching...</p>
-  
-  
-    <iframe width="853" height="480" src="//www.youtube.com/embed/wrH5ZbUJ_kw" frameborder="0" allowfullscreen></iframe>
-  
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:92:"http://www.polygon.com/2013/7/13/4520240/valve-opens-pipeline-to-aid-budding-game-developers";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:92:"http://www.polygon.com/2013/7/13/4520240/valve-opens-pipeline-to-aid-budding-game-developers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:6;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T14:59:38Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T14:59:38Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"Splinter Cell chief wants Sam Fisher to be as big as Bond";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1351:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T11:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T11:00:04Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"Oculus Rift makers consider bringing VR headset to future mobile devices";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1213:"
   
 
 
 
 
-  <img alt="Splinter_cell_blacklist" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16352211/splinter_cell_blacklist.0_cinema_400.0.jpg" />
+  <img alt="Oculus_rift" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16602903/oculus_rift.0_cinema_400.0.jpg" />
 
 
 
@@ -240,19 +272,19 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p><i>Splinter Cell Blacklist </i>creative director Maxime Beland wants the action stealth franchise to be "as big as James Bond."</p>
-<p>"I really want Splinter Cell to have an amazing movie franchise and to be as big as James Bond," said Beland, in an interview with <a href="http://www.gamesradar.com/i-want-splinter-cell-be-big-james-bond-blacklist-director/#sthash.sSGl1Rk2.dpuf" target="_blank">GamesRadar</a>. "There are some great Bond movies, and they're obviously a big point of reference for us. At the same time, I'm so hungry for a good Splinter Cell movie. I know we're developing one now, and that people are responding to it."</p>
-<p>Last year Ubisoft<a href="http://www.polygon.com/2012/12/6/3734924/splinter-cell-film-to-star-tom-hardy" target="_blank"> announced a partnership</a> with New Regency to produce a movie on the series of Splinter Cell games, starring <i>Inception</i>'s Tom Hardy as central character Sam Fisher.</p>
-<p>"Sam Fisher is a great hero," said Beland. "He's interesting, he's...</p>
+  <p>The makers of virtual reality headset Oculus Rift are looking to future mobile devices as the next possible step in VR compatibility, company CEO Brendan Iribe told <a href="http://www.edge-online.com/news/oculus-rift-aiming-for-2014-release-consoles-not-a-focus-but-mobile/" target="_blank">Edge</a>.</p>
+<p>According to the CEO, game consoles are "not a focus" for the company, with the internal team focusing its interests on the future of mobile and the possibility of plugging the Oculus Rift directly "into a next gen cellphone."</p>
+<p>"It's the innovation, and how fast cellphones are now improving," said Iribe. "Where we'll be with the next Galaxy or the next iPhone compared to where consoles are. Those things are almost doubling every year, compared to a console that's just stuck it out for eight years. It just makes us very excited."</p>
+<p>Iribe added that the turn-around rate...</p>
   <p>
-    <a href="http://www.polygon.com/2013/7/13/4520182/splinter-cell-chief-wants-sam-fisher-to-be-as-big-as-bond">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/7/19/4537540/oculus-rift-makers-consider-bringing-vr-headset-to-future-mobile">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:98:"http://www.polygon.com/2013/7/13/4520182/splinter-cell-chief-wants-sam-fisher-to-be-as-big-as-bond";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:98:"http://www.polygon.com/2013/7/13/4520182/splinter-cell-chief-wants-sam-fisher-to-be-as-big-as-bond";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:105:"http://www.polygon.com/2013/7/19/4537540/oculus-rift-makers-consider-bringing-vr-headset-to-future-mobile";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:105:"http://www.polygon.com/2013/7/19/4537540/oculus-rift-makers-consider-bringing-vr-headset-to-future-mobile";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:14:"Colin Campbell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:7;a:6:{s:4:"data";s:38:"
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Emily Gera";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
     
     
     
@@ -260,13 +292,13 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
     
     
     
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T14:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T14:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:77:"How one company hopes to transform physical space using video game principles";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1131:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T10:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-19T10:00:05Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:35:"Age of Wonders 3 delayed until 2014";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1208:"
   
 
 
 
 
-  <img alt="2013-07-11_13" src="http://cdn2.sbnation.com/uploads/chorus_image/image/16349959/2013-07-11_13.55.32.0_cinema_400.0.jpg" />
+  <img alt="Age_of_wonders_iii_worldmap_sea" src="http://cdn2.sbnation.com/uploads/chorus_image/image/16601733/age_of_wonders_iii_worldmap_sea.0_cinema_400.0.jpg" />
 
 
 
@@ -274,81 +306,15 @@ a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
 
 
 
-  <p><span style="line-height: 1.5; font-size: 12px;">"Game designers bring people together," Mishler told Polygon. "In real-world games, people have a lot of agency, and gaming is about agency, acting out and doing things. And in a game not ruled by a computer, we allow gamers to truly craft their own experiences."</span></p>
-<p>Mishler and his small company, Studio Cypher, make games that are "non-games," games that aren't technically video games but will sometimes utilizing gaming technology, like Microsoft's Kinect motion control peripheral. The three-man team met while attending graduate school at Indiana University in Bloomington. They began working on a series of alternate reality games that utilized both computers and the physical space, sending participants on scavenger hunts through various...</p>
+  <p>The release of turn-based strategy game <i>Age of Wonder 3</i> will be delayed until early 2014, developer Triumph Studios <a href="http://www.ageofwonders.com/age-of-wonders-iii-set-to-release-q1-2014/" target="_blank">announced </a>today on the game's forum.</p>
+<p>This upcoming installment in the studio's medieval strategy series was set to launch on Windows PC sometime this fall; however, according to community manager Jimmy van der Have,  the studio is taking additional time to continue developing the game.</p>
+<p>"When announcing the game earlier in the year we've listed a projected release date of &lsquo;fall' 2013," writes van der Have. "We immediately got questions on this, whether this would be fall in the southern or northern hemisphere, and when pre-orders would start.<br><br>"We've made great progress developing the game and feel now is the time to give...</p>
   <p>
-    <a href="http://www.polygon.com/2013/7/13/4514338/nongames-nathan-mishler-studio-cypher-physical-therapy-games">Continue reading&hellip;</a>
+    <a href="http://www.polygon.com/2013/7/19/4537466/age-of-wonders-3-delayed-until-2014">Continue reading&hellip;</a>
   </p>
 
 
 
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:101:"http://www.polygon.com/2013/7/13/4514338/nongames-nathan-mishler-studio-cypher-physical-therapy-games";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:101:"http://www.polygon.com/2013/7/13/4514338/nongames-nathan-mishler-studio-cypher-physical-therapy-games";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:76:"http://www.polygon.com/2013/7/19/4537466/age-of-wonders-3-delayed-until-2014";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"http://www.polygon.com/2013/7/19/4537466/age-of-wonders-3-delayed-until-2014";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
       
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Alexa Ray Corriea";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:8;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T13:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T13:00:03Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Breach and Clear distills the tactical shooter down to its essence";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1045:"
-  
-
-
-
-
-  <img alt="Bc_keyartplate" src="http://cdn3.sbnation.com/uploads/chorus_image/image/16348301/bc_keyartplate.0_cinema_400.0.jpg" />
-
-
-
-
-
-
-
-  <p>Breach and Clear is a game which wisely never extends its reach beyond the verbs in its title. The iOS title tasks players with managing a team of customizable soldiers from a number of real-life military outfits, whom they must use to enter an enemy-infested room and clear out the occupants therein.</p>
-<p>The game's a passion project for Gun, and for executive director Robert Bowling - a temporary collaborator on the project, on loan from his own studio, Robotoki. Gun founder Wes Keltner approached Bowling about the opportunity shortly after his departure from Infinity Ward, pitching him on signing on to consult on Breach and Clear. So attractive was the offer that, even after forming his own company, Bowling agreed to work on the project.</p>
-<p>"...</p>
-  <p>
-    <a href="http://www.polygon.com/2013/7/13/4506024/breach-and-clear-preview">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:65:"http://www.polygon.com/2013/7/13/4506024/breach-and-clear-preview";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:65:"http://www.polygon.com/2013/7/13/4506024/breach-and-clear-preview";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:15:"Griffin McElroy";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}i:9;a:6:{s:4:"data";s:38:"
-    
-    
-    
-    
-    
-    
-    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:7:{s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T03:47:31Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:20:"2013-07-13T03:47:31Z";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:92:"Evo 2013 is the tournament's biggest, but organizers say they focus on community, not growth";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1097:"
-  
-
-
-
-
-  <img alt="Evo_2012" src="http://cdn1.sbnation.com/uploads/chorus_image/image/16341749/evo_2012.0_cinema_400.0.jpg" />
-
-
-
-
-
-
-
-  <p>The annual fighting game tournament, Evo, kicked off today in Las Vegas, Nev. The three-day tournament will bring many of the world's best video game fighters &mdash; and the little-known up-and-comers &mdash; into a shared space, letting the world watch them battle from afar.</p>
-<p>This year's Evo fighting game championship will be its biggest, says founder and organizer Tom Cannon. The event will host nine officially featured fighting games, many more unofficial side tournaments and thousands of competitors and spectators, filling more than 90,000 square feet at Bally's Las Vegas Hotel and Casino.</p>
-<p>"It keeps getting bigger and bigger," Cannon said in an interview with Polygon, "which is really gratifying."</p>
-<p>Evo has 2009 fighting game <i>Street Fighter...</i></p>
-  <p>
-    <a href="http://www.polygon.com/2013/7/12/4519284/evo-2013-is-the-tournaments-biggest-but-organizers-say-they-focus-on">Continue reading&hellip;</a>
-  </p>
-
-
-
-";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"type";s:9:"text/html";s:4:"href";s:109:"http://www.polygon.com/2013/7/12/4519284/evo-2013-is-the-tournaments-biggest-but-organizers-say-they-focus-on";s:3:"rel";s:9:"alternate";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:109:"http://www.polygon.com/2013/7/12/4519284/evo-2013-is-the-tournaments-biggest-but-organizers-say-they-focus-on";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:12:"
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:17:"Michael McWhertor";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Sat, 13 Jul 2013 22:03:53 GMT";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:14:"content-length";s:5:"20624";s:10:"connection";s:10:"keep-alive";s:6:"status";s:6:"200 OK";s:4:"etag";s:34:""8dddc8d3abeaa7918888722a0c68dc21"";s:9:"x-runtime";s:3:"297";s:13:"cache-control";s:35:"private, max-age=0, must-revalidate";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";}s:5:"build";s:14:"20130617175030";}
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Emily Gera";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Fri, 19 Jul 2013 13:35:54 GMT";s:12:"content-type";s:30:"application/xml; charset=utf-8";s:14:"content-length";s:5:"18439";s:10:"connection";s:10:"keep-alive";s:6:"status";s:6:"200 OK";s:4:"etag";s:34:""4d295fe53e6b9fd5a4402c39bcf93be2"";s:9:"x-runtime";s:3:"274";s:13:"cache-control";s:35:"private, max-age=0, must-revalidate";s:3:"p3p";s:84:"CP=CAO DSP COR CURa ADMa DEVa PSAa PSDa CONi OUR IND PHY ONL UNI COM NAV INT CNT STA";}s:5:"build";s:14:"20130718220305";}

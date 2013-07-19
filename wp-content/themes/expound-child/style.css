@@ -1,3 +1,13 @@
+/*
+Theme Name: Expound-child
+Theme URI: http://ssogaming.com
+Description: Child Theme for expound
+Author: bcoakiot
+Author URI: http://ssogaming.com
+Template: expound
+Version: 0.1
+*/
+
 @import url("../expound/style.css");
 
 .searchform
