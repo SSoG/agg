@@ -50,11 +50,20 @@ pre
     max-width: 300px;
 }
 
-.roundedcorners
+.toproundedcorners
 {	
 	border-top-right-radius: 20px !important;
 	border-top-left-radius: 20px !important;
-	-moz-border-top-radius: 20px !important;	
+	-moz-border-top-right-radius: 20px !important;	
+	-moz-border-top-left-radius: 20px !important;
+}
+
+.bottomroundedcorners
+{	
+	border-bottom-right-radius: 20px !important;
+	border-bottom-left-radius: 20px !important;
+	-moz-border-bottom-right-radius: 20px !important;	
+	-moz-border-bottom-left-radius: 20px !important;	
 }
 
 .featured-content
